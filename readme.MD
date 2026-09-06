@@ -6,3 +6,6 @@ Génération de QRCODE
     Obligatoire : texte du QRCODE
 ### -f, --file
     Obligatoire : nom du fichier généré (l'extension .png est ajoutée automatiquement)
+
+### Exemple :
+    python3 main.py -t "https://www.google.fr" -f "google"

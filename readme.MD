@@ -9,3 +9,4 @@ Génération de QRCODE
 
 ### Exemple :
     python3 main.py -t "https://www.google.fr" -f "google"
+    Le fichier google.png est généré dans le dossier img
